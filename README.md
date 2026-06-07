@@ -78,16 +78,6 @@ FULL WAVE
 
 <img width="758" height="311" alt="Screenshot 2026-06-07 150225" src="https://github.com/user-attachments/assets/19d4d029-459a-4b39-a2df-91e6b60ffa35" />
 
-TABULATION:
-
-HALF WAVE
-
-<img width="774" height="201" alt="Screenshot 2026-06-07 150317" src="https://github.com/user-attachments/assets/449d6991-dce9-4edd-9937-402d3e893ee7" />
-
-FULL WAVE
-
-<img width="735" height="225" alt="Screenshot 2026-06-07 150323" src="https://github.com/user-attachments/assets/18fa07e1-701e-4d4b-893e-6056a7e15da3" />
-
 WAVEFORM:
 
 Half wave
