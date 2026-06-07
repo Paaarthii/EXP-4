@@ -46,6 +46,7 @@ Bridge rectifier with filter:
 
 HALF WAVE TABULAR COLUMN
 
+<img width="1004" height="248" alt="Screenshot 2026-06-07 145503" src="https://github.com/user-attachments/assets/faceba41-1fa9-4b4f-b2dc-9298bd467920" />
 
 Half wave Rectifier without filter
 
@@ -53,13 +54,49 @@ Half wave Rectifier without filter
 
 FULL WAVE TABULAR COLUMN
 
+<img width="880" height="268" alt="Screenshot 2026-06-07 145509" src="https://github.com/user-attachments/assets/8ae61813-8eec-4440-b1e4-44ddfece4e9a" />
 
 Full wave Rectifier with filter
 
 <img width="1188" height="433" alt="Screenshot 2026-05-27 122855" src="https://github.com/user-attachments/assets/ca08df24-5e85-4164-a3c4-4927cd264bb1" />
 
+HALF WAVE
+
+<img width="824" height="317" alt="Screenshot 2026-06-07 150023" src="https://github.com/user-attachments/assets/6ca816b0-0717-4326-85d0-0fbe8f3aaf4e" />
+
+FULL WAVE
+
+<img width="786" height="294" alt="Screenshot 2026-06-07 150029" src="https://github.com/user-attachments/assets/d98565b2-ff76-4762-858f-fc987cf3b22d" />
+
+Rectifier with filter:
+
+HALF WAVE
+
+<img width="806" height="284" alt="Screenshot 2026-06-07 150218" src="https://github.com/user-attachments/assets/7c7b5e6d-3442-4955-be77-640409f3eefd" />
+
+FULL WAVE
+
+<img width="758" height="311" alt="Screenshot 2026-06-07 150225" src="https://github.com/user-attachments/assets/19d4d029-459a-4b39-a2df-91e6b60ffa35" />
+
+TABULATION:
+
+HALF WAVE
+
+<img width="774" height="201" alt="Screenshot 2026-06-07 150317" src="https://github.com/user-attachments/assets/449d6991-dce9-4edd-9937-402d3e893ee7" />
+
+FULL WAVE
+
+<img width="735" height="225" alt="Screenshot 2026-06-07 150323" src="https://github.com/user-attachments/assets/18fa07e1-701e-4d4b-893e-6056a7e15da3" />
+
 WAVEFORM:
 
+Half wave
+
+<img width="806" height="774" alt="Screenshot 2026-06-07 145558" src="https://github.com/user-attachments/assets/fe89a0b3-3747-401a-b579-fc20e3146b4f" />
+
+Full wave
+
+<img width="817" height="824" alt="Screenshot 2026-06-07 145617" src="https://github.com/user-attachments/assets/2679c53b-7acb-4968-95a5-7a00f02c8b48" />
 
 RESULT:
 
